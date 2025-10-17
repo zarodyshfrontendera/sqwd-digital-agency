@@ -1,0 +1,8 @@
+body {
+  font-family: var(--font-family-primary);
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 1.75;
+  color: var(--color-dark);
+  background-color: var(--color-light);
+}

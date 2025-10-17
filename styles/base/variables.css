@@ -1,0 +1,23 @@
+:root {
+  --color-dark: #252525;
+  --color-dark-alt: #2e2e2e;
+
+  --color-light: #fff;
+  --color-light-alt: #fbfbfb;
+
+  --color-gray: #777;
+  --color-light-gray: #b8b8b8;
+  --color-light-gray-alt: #c2c2c2;
+  --color-dark-gray: #5b5858;
+
+  --color-green: #4caf50;
+  --color-green-alt: #70bd59;
+
+  --font-family-primary: "Oswald", sans-serif;
+  --font-family-secondary: "Open Sans", sans-serif;
+
+  --container-width: 1800px;
+  --container-padding-x: 15px;
+
+  --transition-duration: 0.2s;
+}
